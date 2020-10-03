@@ -10,5 +10,5 @@ These are the files being used in this.</br>
 - A HTML page **HTML Page** to display the PINs </br>
 
 
-###### The Credit for this Idea, initialized Code Setup and API key is goes to py4e.org which is provided under a course on Coursera 
+###### Disclaimer:- The Credit for this Idea, initialized Code Setup and API key is goes to py4e.org, which was provided under a course on Coursera.
 
